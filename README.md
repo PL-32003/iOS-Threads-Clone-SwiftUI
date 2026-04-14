@@ -23,7 +23,9 @@ A fully functional social media application inspired by Threads, built entirely 
 * **Data Storage:** UserDefaults
 * **Environment:** iOS 17+, Xcode 15+
 
-## Installation
+## Installation & Usage
+This project is built as a Swift Playgrounds App package (`.swiftpm`). It can be run natively on an iPad or seamlessly on a Mac.
+
 1. Clone this repository to your local machine.
-2. Open the project folder using **Xcode**.
-3. Select an iOS Simulator (e.g., iPhone 15 Pro or iPad) and hit `Cmd + R` to build and run the application.
+2. **On Mac:** Double-click the `ThreadsClone.swiftpm` file to open it directly in **Xcode**. Select a Simulator and hit `Cmd + R` to run.
+3. **On iPad:** Airdrop or download the `.swiftpm` file to your device and open it using the **Swift Playgrounds** app to build and run natively.
